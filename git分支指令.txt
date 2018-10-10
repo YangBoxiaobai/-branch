@@ -1,3 +1,11 @@
 git branch 查看分支
 git branch 分支名  创建分支
 git branch -d 分支名   删除分支
+
+切换分支
+
+git checkout 分支名
+
+merge分之合并
+
+merge branch 把名为branch的
